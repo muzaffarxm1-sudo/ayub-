@@ -1,0 +1,16 @@
+{
+  "name": "nilpak-sales-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline-first sales accounting app prepared for Netlify.",
+  "scripts": {
+    "build": "echo Static HTML app - no build step",
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^10.7.9"
+  },
+  "devDependencies": {
+    "netlify-cli": "^27.1.1"
+  }
+}
